@@ -25,7 +25,7 @@ else if(resultado >= 51 && resultado <= 80) {
 }
 
 else if(resultado >= 81 && resultado <= 90) {
-    console.log("O Herói tem um saldo de " + resultado + " e está classificado no nível de Diamante")
+    console.log("O Herói tem um saldo de " + resultado + " vitórias e está classificado no nível de Diamante")
 }
 
 else if(resultado >= 91 && resultado <= 100) {
